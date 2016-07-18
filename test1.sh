@@ -7,3 +7,11 @@ do
 done
 echo ${array2[@]}
 
+a=3
+
+for ((i=0;i<20;i+=$a))
+do
+  echo "hello"
+done
+
+
