@@ -1,0 +1,3 @@
+1. 4k sequential read and write , diff result differ. (no format before running nvme write and read)
+
+2. 4k fio performance function , machine down during running.
