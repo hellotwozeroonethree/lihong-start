@@ -1,0 +1,46 @@
+NVME Identify Controller:
+vid     : 0x8086
+ssvid   : 0x8086
+sn      : CVCQ514500DQ400AGN  
+mn      : INTEL SSDPEDMW400G4                     
+fr      : 8EV10135
+rab     : 0
+ieee    : 5cd2e4
+cmic    : 0
+mdts    : 5
+cntlid  : 0
+ver     : 0
+rtd3r   : 0
+rtd3e   : 0
+oaes    : 0
+oacs    : 0x6
+acl     : 3
+aerl    : 3
+frmw    : 0x2
+lpa     : 0
+elpe    : 63
+npss    : 0
+avscc   : 0
+apsta   : 0
+wctemp  : 0
+cctemp  : 0
+mtfa    : 0
+hmpre   : 0
+hmmin   : 0
+tnvmcap : 0
+unvmcap : 0
+rpmbs   : 0
+sqes    : 0x66
+cqes    : 0x44
+nn      : 1
+oncs    : 0x6
+fuses   : 0
+fna     : 0x7
+vwc     : 0
+awun    : 0
+awupf   : 0
+nvscc   : 0
+acwu    : 0
+sgls    : 0
+ps    0 : mp:25.00W operational enlat:0 exlat:0 rrt:0 rrl:0
+          rwt:0 rwl:0 idle_power:- active_power:-
