@@ -1,0 +1,18 @@
+1. fio cmd args needs to be learned, / -loops, -iodepth, ...
+
+2. nvme cmd needs to learn. / nvme format -n -l ?, queen mode
+
+3. baidu fio split scripts
+
+4. nvme parse python scripts
+
+5. nvme spec
+
+Error:
+   1. mke2fs; mount; sequential write once without rewrite; ----> ok
+   2. mke2fs; mount; sequential write .....ok
+
+
+   1. mke2fs; mount; sequential write once without rewrite; ----> ok
+   2. format; mke2fs; mount; ----> mount error
+
